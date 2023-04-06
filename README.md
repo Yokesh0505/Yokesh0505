@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yokeshwaran
 - 👀 As an aspiring Data Scientist, interested in working on Machine Learning, Deep Learning concepts too.
-- 🌱 I’m pursuing Master's in Data Science
+- 🌱 Pursuing Master's in Data Science
 - 💞️ I’m looking to collaborate on learning and working with you
